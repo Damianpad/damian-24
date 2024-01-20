@@ -1,0 +1,21 @@
+.NavContainer {
+    background: #131415;
+    width: 150px;
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.NavItem {
+    transform: rotate(-90deg);
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    margin-bottom: 200px; 
+}
+
+.NavItem li{
+    display: flex;
+    margin:3em; 
+}
