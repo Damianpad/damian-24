@@ -1,7 +1,7 @@
 .NavContainer {
     background: #131415;
     width: 150px;
-
+    height: 100vh;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -12,7 +12,6 @@
     display: flex;
     width: 100%;
     flex-direction: row;
-    margin-bottom: 200px; 
     justify-content: space-between;
     align-items: center;
 }
@@ -22,7 +21,6 @@
     margin:3em; 
     justify-content: space-between;
     align-items: center;
-    height: 100vh;
 
 }
 
